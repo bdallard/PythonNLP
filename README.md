@@ -17,8 +17,11 @@ See the requirement.txt file and launch the following command :
 pip install -r requirements.txt
 ```
 
-Most of models are inspired by the Keras team, you can see their git bellow : https://github.com/keras-team/keras/tree/master/examples
+Most of models are inspired by the Keras team, you can see their git bellow. 
 
+```
+https://github.com/keras-team/keras/tree/master/examples
+```
 
 
 
