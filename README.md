@@ -1,9 +1,8 @@
 # PythonNLP
-Final year project for my engineering degree
-# PythonNLP
-Final year project for my engineering degree. 
-This project this project aims to compare different methods for text classification, including that involving neural networks. 
 
+Final year project for my engineering degree. 
+
+This project this project aims to compare different methods for text classification, including that involving neural networks. 
 
 ### Prerequisites
 
