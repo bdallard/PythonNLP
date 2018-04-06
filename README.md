@@ -2,7 +2,7 @@
 
 Final year project for my engineering degree in mathematical engineering and computer science with BNP Paribas. 
 
-This project this project aims to compare different methods for French text classification, including that involving neural networks. 
+This project aims to compare different methods for French text classification, including that involving neural networks. 
 
 You can find there three models. 
 The first one involving Bayesian methods, the second a convolutional neural network CNN and the third a long short term memory neural network LSTM. 
@@ -50,4 +50,4 @@ This project is not under licence.
 
 A very special acknowledgment to my friend and associate Maxime Jumelle for supporting me and answering to my questions. 
 
-You can find his work here : https://github.com/MaximeJumelle/
+You can find his work here : https://github.com/MaximeJumelle
