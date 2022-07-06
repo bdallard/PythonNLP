@@ -20,7 +20,7 @@ functools32==3.2.3.post2
 future==0.16.0
 gensim==3.3.0
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 Keras==2.0.8
 Lasagne==0.1
